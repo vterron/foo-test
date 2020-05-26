@@ -1,1 +1,3 @@
 # foo-test
+
+new contents!
